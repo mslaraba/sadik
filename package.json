@@ -1,0 +1,25 @@
+{
+  "name": "sadik",
+  "version": "0.0.0",
+  "description": "Virtual Assisstant\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[3~\u001b[3~\u001b[sistant\u001b[3~ ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mslaraba/sadik.git"
+  },
+  "keywords": [
+    "Assistant",
+    "Cross",
+    "plateform",
+    "Javascript"
+  ],
+  "author": "LARABA MOHAMMED SEDDIK",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mslaraba/sadik/issues"
+  },
+  "homepage": "https://github.com/mslaraba/sadik#readme"
+}
